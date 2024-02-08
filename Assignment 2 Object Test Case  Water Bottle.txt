@@ -1,0 +1,25 @@
+Object Test Case: Water Bottle
+
+1. Check the material composition of the water bottle.
+2. Assess the weight of the water bottle.
+3. Measure the vertical height for accuracy.
+4. Check the contour and form of the water bottle to ensure conformity.
+5. Confirm the volume capacity through practical filling.
+6. Inspect the aesthetic appeal of the water bottle’s color and design.
+7. Evaluate the features of the design.
+8. Verify the display and placement of the brand logo
+9. Test the seal integrity of the water bottle to prevent leakage.  
+10. Check the capabilities for temperature measurement.
+11. Conduct a drop test to check the durability.
+12. Check the functionality of the lid’s opening and closing mechanism.
+13. Check the transparency of to ensure clear visibility of the contents.
+14. Check the grip for comfort and handling of the water bottle.
+15. Verify the presence and clarity of usage instructions on the label.
+16. Check the quality and finishing of the water bottle.
+17. Verify the tightness of the bottle cap to prevent spillage.
+18. Check for any odors or tastes in the water bottle.
+19. Verify eco-friendliness of materials.
+20. Ensure the absence of BPA or other harmful materials.
+21. Assess ease of disassembly for thorough cleaning.
+22. Text the ease of refilling the water bottle from different sources.
+23. Check the portability and ease of transportation.
